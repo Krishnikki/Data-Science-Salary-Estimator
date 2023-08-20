@@ -1,4 +1,4 @@
-# Data Science Salary Estimator: Project Overview 
+# Data Science Salary Estimator 
   Author: Deepak Pant 22M0035@iitb.ac.in
 * Scraped over 1000 job descriptions from glassdoor using python and selenium
 * Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
@@ -6,7 +6,7 @@
 
 
 ## Code and Resources Used 
-**Python Version:** 3.7  
+**Python Version:** 3.6  
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle  
 **For Web Framework Requirements:**  ```pip install -r requirements.txt```  
 
